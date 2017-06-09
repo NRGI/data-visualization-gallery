@@ -42,5 +42,5 @@ Final version: [Link](http://nrgi.github.io/D3/giniGraph.html)
 ### Animated Gifs
 The animated gif visualization is good for showing changes in data over time and for use on social media. This example was developed by the data team using predicted and actual economic growth data. It shows the changes in predicted growth over five years while showing the actual growth at the same time.
 
-![IMF gif](Images/IMF.gif)
+![IMF gif](Images/IMF gif.gif)
 
