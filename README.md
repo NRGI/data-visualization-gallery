@@ -1,6 +1,6 @@
 # data-visualization-gallery
 
-A library of extractive data visualizations done by the data team at NRGI.
+A library of data visualizations done by the data team at NRGI.
 
 
 ### Azerbaijan budget data
@@ -10,6 +10,7 @@ Data sources used:
 - Budget data
 
 Final version: [Link](http://nrgi.github.io/D3/AZ/AZ_stacked.html)
+ 
 ![AZ gif](Images/AZ.gif)
 
 Earlier draft: [Link](http://nrgi.github.io/D3/AZ/AZ_indicators.html)
@@ -23,6 +24,7 @@ Data sources used:
 - Andean database
 
 Final version: [Link](http://nrgi.github.io/D3/govtTake.html)
+ 
 ![Andean gif](Images/Andean.gif)
 
 ### EITI company payment comparison
@@ -34,9 +36,11 @@ Data sources used:
 - EITI summary data
 
 Final version: [Link](http://nrgi.github.io/D3/giniGraph.html)
-![Gini gif](Images/Gini.gif)
 
+ ![Gini gif](Images/Gini.gif)
 
+### Animated Gifs
+The animated gif visualization is good for showing changes in data over time and for use on social media. This example was developed by the data team using predicted and actual economic growth data. It shows the changes in predicted growth over five years while showing the actual growth at the same time.
 
-
+![IMF gif](Images/IMF.gif)
 
