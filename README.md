@@ -22,7 +22,7 @@ Data sources used:
 - Andean database
 
 Final version: [Link](http://nrgi.github.io/D3/govtTake.html)
-
+![Contribution guidelines for this project](Images/Andean.gif)
 
 ### EITI company payment comparison
 This visualization displays company payment data in three unique views across multiple countries. Based on the income inquality measure known as the Lorenz Curve, this graph shows how the total amount of money received by a country is distributed between all companies making payments. Sorted by company from lowest to highest total payment amounts (in one year, 2013), a single line shows how much of the total payments the lowest x (or x percent) of companies paid out of the total in a single country. For countries where a small percent of companies pay a very large percent of the total extractive revenue, the far right of the curve will be very steep. For countries with more equitable distribution of payments among companies, the curve will be flatter towards the center.
